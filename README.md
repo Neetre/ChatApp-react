@@ -26,8 +26,8 @@ This is a chat application built with React and Firebase. It allows users to sig
 
 ## Screenshots
 
-![Sign In](/data/signin.png)
-![ChatApp](/data/chat.png)
+![Sign In](data/signIn.PNG)
+![ChatApp](data/chat.PNG)
 
 ## License
 
