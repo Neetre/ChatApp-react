@@ -11,7 +11,7 @@ import { useCollectionData } from 'react-firebase-hooks/firestore';
 
 
 const firebaseConfig = {
-
+  // your config stuff here
 }
 
 const app = initializeApp(firebaseConfig);
